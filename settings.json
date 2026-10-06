@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PvP_Box_PvP.aternos.me",
+    "ip": "PvP_Box_PvP.aternos.me:57686",
     "port": 57686,
     "version": "1.21.1",
     "try-creative": false
